@@ -1,6 +1,4 @@
 # Creating and Plotting Objects
-
-## Plot
 ![](objects_zoom_png)
 
 ### Description
