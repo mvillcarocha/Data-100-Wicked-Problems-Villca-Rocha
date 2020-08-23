@@ -1,3 +1,3 @@
 # Creating and Plotting Objects
 
-![creating_objects.png]
+![creating_objects_pic.png]
