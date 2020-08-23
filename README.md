@@ -1,4 +1,4 @@
-# Matthew's Repository
+# Introduction
 Hi! My name is Matthew Villca-Rocha and I am an upcoming freshman planning on majoring in Finance. This is my github page where I will be storing all my in-class assignments for this fall semester's Data-100 Wicked Problems course taught by Professor Frazier. 
 
 ## Files:
