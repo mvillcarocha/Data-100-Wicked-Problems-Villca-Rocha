@@ -1,2 +1,2 @@
-![](lab_1_total_pop_plot_png)
+![](lab_1_total_pop_plot.png)
 
