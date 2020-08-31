@@ -3,4 +3,5 @@ Hi! My name is Matthew Villca-Rocha and I am an freshman at the College of Willi
 
 ## Files:
 
-August 26, 2020: [Creating and Plotting Objects](creating_objects.md)
+August 26, 2020: [Creating and Plotting Objects](creating_objects.md) <br />
+August 30, 2020: [Data Management Part 1](lab_1.md) <br />
