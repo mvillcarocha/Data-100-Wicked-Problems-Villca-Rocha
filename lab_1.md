@@ -18,4 +18,4 @@
 
 #### Plot #4
 
-<img src="lab_1_density_plot.png" style="zoom:150%;" />
+<img src="lab_1_density_plot.png" style="zoom:150%;" /> 
