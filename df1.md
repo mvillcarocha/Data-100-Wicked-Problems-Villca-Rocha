@@ -2,7 +2,9 @@
 
 Data science offers a wide range of possibilities in improving numerous career fields from environmental sciences, engineering, and business applications. As our labor operations shift toward the technological side, most tasks can be perceived as tedious when assessing its efficiency from a macro perspective. One big phenomenon, to eliminate this repetition; is the implementation of **Robotic Process Automation (RPA)** in technological processes. RPA is an automation software that utilizes software robots to execute any process to remove the unnecessary repetition. **UiPath** is the lead programming software that provides business users an intuitive platform to utilize RPA to aid their operations. 
 
- 
+<img src="rpa_uipath.png" style="zoom:200%;" />
+
+
 
 From a financial business standpoint, RPA can be utilized to automate manual tasks in the office and deal with customer service. For example, RPA can detect errors, like file formats, in online confidential documentation. By handling this problem before it becomes an issue reduces operational calls in the customer service department. However, if it does fall into there, RPA is able to handle customer service operations utilizing past data from clients. By automating these operations, businesses and firms can find more efficient ways in utilizing labor to self-improve. 
 
