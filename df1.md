@@ -11,3 +11,11 @@ From a financial business standpoint, RPA can be utilized to automate manual tas
  
 
 Although it isn’t exactly new as to how RPA aids business processes, it is still capable of reaching areas that affect the health of many. Healthcare providers can utilize RPA to find faster and more efficient outcomes to financially satisfy their customers. Especially when transferring old data to new systems, RPA is solely based on automating the process of transferring mass amounts of data to ensure that every patient isn’t left behind. By ensuring both efficiency and accuracy, RPA proves to be a great tool when it comes to handling, accessing, and utilizing data. 
+
+
+
+### Cited Sources: 
+
+What is RPA: Robotic Process Automation Software. (n.d.). Retrieved September 11, 2020, from https://www.automationanywhere.com/rpa/robotic-process-automation
+
+RPA Healthcare: Healthcare Automation Solutions. (n.d.). Retrieved September 11, 2020, from https://www.automationanywhere.com/solutions/healthcare
