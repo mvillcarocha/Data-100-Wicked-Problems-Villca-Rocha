@@ -1,21 +1,9 @@
-### Plot #1: 
+# Project 1.1: Merging, Categorizing & the Grammar of Graphics
 
-<img src="lab_1_total_pop_plot.png" style="zoom:150%;" />
+### Plot
 
+<img src="app_doc_deg_plot"  />
 
+### Description 
 
-### Plot #2: 
-
-<img src="lab_1_comparing_pop_plot.png"  />
-
-
-
-### Plot #3
-
-![](lab_1_female_pop_per_diff_plot.png)
-
-
-
-### Plot #4
-
-<img src="lab_1_density_plot.png" style="zoom:150%;" /> 
+The plot above displays the amount of applications received by institutions that offer doctoral degrees. The institutions are separated based on the region they are located. Within these bars, they are furthered segmented and labeled based on their state. For example, the far west region seems to have a lot of institutions that offer doctoral degrees, but this isn't necessarily correct because most of these institutions come from California. 

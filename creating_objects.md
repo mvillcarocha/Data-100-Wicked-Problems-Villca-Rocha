@@ -1,4 +1,6 @@
 # Creating and Plotting Objects
+### Plot
+
 <img src="creating_objects_plot.png"  />
 
 ### Description

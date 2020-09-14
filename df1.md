@@ -14,7 +14,7 @@ Although it isn’t exactly new as to how RPA aids business processes, it is sti
 
 
 
-### Cited Sources: 
+### Cited Sources
 
 What is RPA: Robotic Process Automation Software. (n.d.). Retrieved September 11, 2020, from https://www.automationanywhere.com/rpa/robotic-process-automation
 
