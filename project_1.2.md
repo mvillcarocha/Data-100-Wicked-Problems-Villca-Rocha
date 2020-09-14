@@ -2,7 +2,7 @@
 
 ### Plot
 
-<img src="quantile_census_pop_data.png" style="zoom:80%;" />
+<img src="quantile_census_pop_data.png"  />
 
 ### Description
 
