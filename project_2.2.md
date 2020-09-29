@@ -1,4 +1,4 @@
-# Project 2.2: Using the Stock Market to Describe, Analyze and Predict 
+# Project 2.2: Using the Stock Market to Describe, Analyze, and Predict 
 
 ### Correlation Matrix
 
