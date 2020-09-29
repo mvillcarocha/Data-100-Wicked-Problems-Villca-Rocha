@@ -8,5 +8,7 @@ August 30, 2020: [Data Management](data_mgt.md) <br />
 September 4, 2020: [Project 1.1: Merging, Categorizing & the Grammar of Graphics](project_1.1.md) <br />
 September 14, 2020: [Project 1.2: Application Program Interfaces (API) & Tidying up your Data](project_1.2.md) <br />
 
+
+
 ## Reflection Indexes
 September 11, 2020: [Data Reflection 1](df1.md) <br />
