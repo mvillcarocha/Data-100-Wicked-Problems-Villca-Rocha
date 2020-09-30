@@ -1,5 +1,5 @@
 # Introduction
-Hi! My name is Matthew Villca-Rocha and I am an freshman at the College of William & Mary planning on majoring in Finance. I am originally from Northern Virginia and have graduated from John Champe High School in Aldie, VA. This is my github page where I will be storing all my in-class assignments for this fall semester's Data-100 Wicked Problems course taught by Professor Frazier. 
+Hi! My name is Matthew Villca-Rocha and I am an freshman at the College of William & Mary planning on majoring in Finance. I am originally from Northern Virginia and have graduated from John Champe High School in Aldie, VA. This is my GitHub page where I will be storing all my in-class assignments for this fall semester's Data-100 Wicked Problems course taught by Professor Frazier. 
 
 ## Files Indexes:
 
@@ -12,4 +12,6 @@ September 25, 2020: [Project 2.2: Using the Stock Market to Describe, Analyze, a
 October 2, 2020:  [Project 2.3: Using Tidyquant to Analyze Stock Performance](project_2.3.md) <br />
 
 ## Reflection Indexes
-September 11, 2020: [Data Reflection 1](df1.md) <br />
+September 11, 2020: [Data Reflection 1: Robotic Process Automation](df1.md) <br />
+
+October 2, 2020:  [Data Reflection 2: Improving Population Group Data](df2.md) <br />
