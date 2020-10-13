@@ -4,7 +4,7 @@ George Shaw is the founder and CEO of his spatial modeling business, **Pathr**. 
 
 The increase in demand for Pathr comes from the necessity of implementing social distancing in a workplace/retail environment. As a result, Pathr uses Unity, a real-time 3D development platform, to construct modeled layouts for their clients. However, Pathr’s unique value proposition comes from their ability to provide simulations to replicate human behavior, throughout their client’s layout, to understand what guidelines must be put to ensure security. Furthermore, Pathr uses existing surveillance cameras, machine signaling and card swipes to gather data and display simulated movements.
 
-<img src = "df3_image.png" style="zoom: 33%;" />
+<img src = "df3_image.png" style="zoom: 50%;" />
 
 *Example of Pathr's simulation feature, using a mall-like enviornment, provided to clients*
 
