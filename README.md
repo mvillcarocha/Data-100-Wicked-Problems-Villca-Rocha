@@ -15,3 +15,5 @@ October 2, 2020:  [Project 2.3: Using Tidyquant to Analyze Stock Performance](pr
 September 11, 2020: [Data Reflection 1: Robotic Process Automation](df1.md) <br />
 
 October 2, 2020:  [Data Reflection 2: Improving Population Group Data](df2.md) <br />
+
+October 16, 2020: [Data Reflection 3: Pathr and Spatial Intelligence](df3.md)  <br />
