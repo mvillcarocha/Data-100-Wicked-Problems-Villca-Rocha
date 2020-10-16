@@ -1,4 +1,4 @@
-# Projecting, Plotting and Labelling Administrative Subdivisions - Stretch Goals
+# Project 3.2: Projecting, Plotting and Labelling Administrative Subdivisions - Stretch Goals
 
 ### Plot
 
