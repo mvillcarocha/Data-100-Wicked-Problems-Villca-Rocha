@@ -17,4 +17,4 @@ October 15, 2020: [Project 3.2: Projecting Administrative Subdivisions Stretch G
 
 ## Reflection Indexes
 
-September 11, 2020: [Data Reflection 1: Robotic Process Automation](df1.md) <br />October 2, 2020:  [Data Reflection 2: Improving Population Group Data](df2.md) <br />October 16, 2020: [Data Reflection 3: Pathr and Spatial Intelligence](df3.md)  <br />October 30, 2020: 
+September 11, 2020: [Data Reflection 1: Robotic Process Automation](df1.md) <br />October 2, 2020:  [Data Reflection 2: Improving Population Group Data](df2.md) <br />October 16, 2020: [Data Reflection 3: Pathr and Spatial Intelligence](df3.md)  <br />October 30, 2020: [Data Reflection 4: IBM's Emergence to Space](df4.md) <br />
