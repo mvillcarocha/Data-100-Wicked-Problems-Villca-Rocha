@@ -11,7 +11,7 @@ September 22, 2020: [Project 2.1: Independently Accessing an API and Creating yo
 September 25, 2020: [Project 2.2: Using the Stock Market to Describe, Analyze, and Predict](project_2.2.md) <br />
 October 2, 2020:  [Project 2.3: Using Tidyquant to Analyze Stock Performance](project_2.3.md) <br />
 October 9, 2020: [Project 3.1: Projecting Administrative Subdivisions](project_3.1.md) <br />
-October 15, 2020: [Project 3.2: Projecting Administrative Subdivisions Stretch Goals](project_3.2.md) <br />October 23, 2020: [Project 4.1: Extracting Populations from a Raster and Aggregating to each Unit](project_4.1.md) <br />October 30, 2020: [Project 4.2: Creating a Geometric Plot with your Simple Feature Object](project_4.2.md)<br />
+October 15, 2020: [Project 3.2: Projecting Administrative Subdivisions Stretch Goals](project_3.2.md) <br />October 23, 2020: [Project 4.1: Extracting Populations from a Raster and Aggregating to each Unit](project_4.1.md) <br />October 30, 2020: [Project 4.2: Creating a Geometric Plot with your Simple Feature Object](project_4.2.md)<br />November 6, 2020: [Project 5.1: Extracting Land Use & Land Cover Data](project_5.1.md)<br />
 
 
 
